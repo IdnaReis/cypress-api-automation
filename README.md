@@ -26,6 +26,7 @@ cypress-api-automation/
 - ✅ Cenários de sucesso, erro e autenticação
 
 
-👩‍💻 Autora: Idna Reis🔗 LinkedIn: https://linkedin.com/in/idna-reis
+👩‍💻 Autora: Idna Reis
+🔗 LinkedIn: https://linkedin.com/in/idna-reis
 🐙 GitHub: https://github.com/IdnaReis
 
