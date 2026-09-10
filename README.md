@@ -68,16 +68,11 @@ LINKEDIN
 img.shields.io
 ## 
 ￼
- Autora
+## 👩‍💻 Autora
 
-*Idna Reis*  
+**Idna Reis**  
 Profissional em transição para QA | Testes Manuais & Automação
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/idna-reis) [
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/IdnaReis)
+<a href="https://linkedin.com/in/idna-reis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/IdnaReis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 
