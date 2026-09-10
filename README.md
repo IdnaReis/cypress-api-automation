@@ -18,7 +18,7 @@ Repositório com testes automatizados de API utilizando Cypress, com foco em val
 
 | Tecnologia | Descrição |
 |---|---|
-| **Cypress** | Framework moderno para testes de API e Web |
+| **Cypress.io** | Framework moderno para testes de API e Web |
 | **JavaScript / Node.js** | Ambiente de execução |
 | **npm** | Gerenciador de pacotes e dependências |
 
