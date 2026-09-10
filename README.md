@@ -25,11 +25,7 @@ cypress-api-automation/
 - ✅ Suporte aos métodos: **GET, POST, PUT, DELETE**
 - ✅ Cenários de sucesso, erro e autenticação
 
-## ▶️ Como Executar
-1. Instale as dependências:
-```bash
 
+👩‍💻 Autora: Idna Reis🔗 LinkedIn: https://linkedin.com/in/idna-reis
+🐙 GitHub: https://github.com/IdnaReis
 
-👩‍💻 AutoraIdna Reis
-🔗 LinkedIn
-🐙 GitHub
