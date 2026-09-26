@@ -1,3 +1,4 @@
+
 # 🚀 Automação de API com Cypress
 
 [![Testes de API](https://github.com/IdnaReis/cypress-api-automation/actions/workflows/testes-api.yml/badge.svg)](https://github.com/IdnaReis/cypress-api-automation/actions/workflows/testes-api.yml)
@@ -44,6 +45,20 @@ Os testes validam códigos de status HTTP, estrutura e contrato das respostas JS
 | `jsonplaceholder/contrato-e-negativos.cy.js` | 10 |
 | `reqres/usuarios.cy.js` | 7 |
 | **Total** | **60 ✅** |
+
+## 📸 Evidências
+
+Execução local: 60 de 60 testes passando.
+
+![Testes passando](./evidencias/testes-passando.png)
+
+Validação de contrato e cenários negativos na interface do Cypress:
+
+![Contrato e cenários negativos](./evidencias/contrato-e-negativos.png)
+
+Pipeline no GitHub Actions:
+
+![CI no GitHub Actions](./evidencias/ci-github-actions.png)
 
 ## 📁 Estrutura do Projeto
 
